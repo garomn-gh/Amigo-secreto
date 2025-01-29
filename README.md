@@ -39,7 +39,7 @@ Al ingresar al juego el usuario debe ingresar nombres para poder sortear de form
 ![sorteo de amigo](https://github.com/user-attachments/assets/4984eb79-b3ce-483e-bbbe-b03fd8c79c5b)
 
 
-7- se reanuda el juefi
+7- Se reanuda el juego
 
 
 \## 📁 Acceso al proyecto
