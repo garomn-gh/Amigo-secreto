@@ -2,7 +2,7 @@
 
 \## 📁 Acceso al proyecto
 
-**Indica cómo se puede descargar o acceder al código fuente del proyecto, ya sea proyecto inicial o final**
+**Se puede descargar el proyecto desde https://github.com/garomn-gh/Amigo-secreto/archive/refs/heads/main.zip**
 
 \## 🛠️ Abre y ejecuta el proyecto
 
