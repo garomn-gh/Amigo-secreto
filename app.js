@@ -13,7 +13,7 @@ function ingresoNombreDeUsuario() {
     // Validar que el nombre solo contenga letras
     const soloLetras = /^[a-zA-ZáéíóúÁÉÍÓÚñÑ\s]+$/;
     if (!soloLetras.test(nombreUsuarioIngresado)) {
-        alert("Por favor, ingresa solo letras.");
+        alert("Por favor, ingresa un nombre válido.");
         return;
     }
 
