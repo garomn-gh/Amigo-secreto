@@ -42,7 +42,7 @@ Al ingresar al juego el usuario debe ingresar nombres para poder sortear de form
 7- Se reanuda el juego
 
 
-\## 📁 Acceso al proyecto
+\## 📁 Descarga del proyecto
 
 **Puedes descargar el proyecto desde -> https://github.com/garomn-gh/Amigo-secreto/archive/refs/heads/main.zip**
 
