@@ -2,9 +2,9 @@
 
 -**Funcionalidad del Proyecto amigo Secreto**
 
-Al ingresar al juego el usuario debe ingresar nombres para poder sortear de forma aleatorea uno de los nombres
+Al ingresar al juego, el usuario debe ingresar nombres para poder sortear de forma aleatorea uno de los nombres
 
-1- Si el usuario pulsa "añadir" con la caja de nombres vacía le saldrá una alerta indicando que debe insertar un nombre
+1- Si el usuario pulsa "añadir" con la caja de nombres vacía, le saldrá una alerta indicando que debe insertar un nombre
 
 ![inserta un nombre](https://github.com/user-attachments/assets/a9b1de84-3518-431b-8e56-29e36a75adcc)
 
@@ -22,19 +22,19 @@ Al ingresar al juego el usuario debe ingresar nombres para poder sortear de form
 
 
 
-4- Si el usuario repite algún nombre, (sin exepción de como lo escriba), una alerta le indicará que yá ese nombre se encuentra en la lista, evitando que se dupliquen nombres y tener ventaja o confusión en el sorteo final.
+4- Si el usuario repite algún nombre, (sin exepción de como lo escriba), una alerta le indicará que ya ese nombre se encuentra en la lista, evitando que se dupliquen nombres y tener ventaja o confusión en el sorteo final.
 
 ![Nombre duplpicado](https://github.com/user-attachments/assets/15f149f3-8514-493b-bd18-b4952b206713)
 
 
 
-5- Si se colocan caracteres especiales o numéricos se le indicará que se debe ingresar un nombre valido.
+5- Si se colocan caracteres especiales o númericos se le indicará que se debe ingresar un nombre válido.
 
 ![Nombres válidos](https://github.com/user-attachments/assets/b45fdaab-8e23-4667-bb3f-ca7b98b6e1ca)
 
 
 
-6- Al colocar los nombres y pulsar en, "sortear amigo" el juego seleccionará un nombre de la lista de forma aleatorea.
+6- Al colocar los nombres y pulsar en "sortear amigo", el juego seleccionará un nombre de la lista de forma aleatorea.
 
 ![sorteo de amigo](https://github.com/user-attachments/assets/4984eb79-b3ce-483e-bbbe-b03fd8c79c5b)
 
